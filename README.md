@@ -8,9 +8,6 @@ This project is a full-stack password manager consisting of:
 * A **Docker-based** monitoring and logging stack
 * An **Nginx** reverse proxy
 
-The live production deployment is available at:
-
-👉 **[https://password123.pw](https://password123.pw)**
 
 The application implements secure JWT authentication, CSRF protection, 2-factor authentication (TOTP), encrypted secret storage, rate-limiting, Google reCAPTCHA, and full observability through Loki + Grafana.
 
