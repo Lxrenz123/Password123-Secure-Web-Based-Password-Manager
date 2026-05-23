@@ -16,6 +16,6 @@ This project is a full-stack password manager consisting of:
 The application implements secure JWT authentication, CSRF protection, 2-factor authentication (TOTP), encrypted secret storage, rate-limiting, Google reCAPTCHA, and full observability through Loki + Grafana.
 
 
-![User Interface](./Screenshot 2025-11-27 182000.png)
-![Google ReCaptcha](./Screenshot 2025-11-24 095226.png)
+![User Interface](Screenshot 2025-11-27 182000.png)
+![Google ReCaptcha](Screenshot 2025-11-24 095226.png)
 
